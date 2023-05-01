@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <citation>
+            <citeinfo>
+                <title>Map1</title>
+            </citeinfo>
+        </citation>
+        <descript>
+            <abstract>The Arizona Supplemental Nutrition Program for Women, Infants, and Children (WIC) provides nutrition education and breastfeeding support services, supplemental nutritious foods and referrals to health and social services. WIC serves pregnant, breastfeeding, and postpartum women; infants; and children under the age of five who are determined to be at nutritional risk. Arizona's WIC Program is funded by the United States Department of Agriculture.WIC clinic staff help eligible families provide healthy foods for their children, as well as referrals to other community resources.WIC locations provided by the ADHS Bureau of Nutrition and Physical Activity in April 2022.Update Frequency: Annual</abstract>
+            <purpose>WIC Clinics locations provided by the ADHS Bureau of Nutrition and Physical Activity in April 2022.</purpose>
+        </descript>
+        <keywords>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>WIC</themekey>
+                <themekey>Clinics</themekey>
+                <themekey>ADHS</themekey>
+                <themekey>Arizona Department of Health Services</themekey>
+                <themekey>Arizona</themekey>
+            </theme>
+        </keywords>
+        <accconst>None</accconst>
+        <useconst> While every effort has been made to ensure the accuracy of this data, the Arizona Department of Health Services makes this data available on an &amp;quot;as is&amp;quot; and &amp;quot;as available&amp;quot; basis, and makes no representations or warranties of any kind, express or implied with respect to the data. The Arizona Department of Health Services is not liable for data errors, inaccuracies or omissions and shall be held harmless from and against all damage, loss or liability arising from any use or the results obtained from its use. Per A.R.S. 37-178: A public agency that shares geospatial data of which it is the custodian is not liable for errors, inaccuracies or omissions and shall be held harmless from and against all damage, loss or liability arising from any use of geospatial data that is shared. The information contained in these data is dynamic and may change over time. It is the responsibility of the data user to use the data appropriately and consistent with the intent stated in the metadata.Any type of boundary, linear or point locations contained within this data or displayed within this product are approximate, and should not be used for authoritative or legal location purposes. Users should independently research, investigate, and verify all information to determine if the quality is appropriate for their intended purpose. If legally-defensible boundaries or locations are required, they should first be established by an appropriate state-registered professional. </useconst>
+        <datacred>Arizona Department of Health Services</datacred>
+    </idinfo>
+    <metainfo>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metainfo>
+</metadata>
